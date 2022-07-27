@@ -1,0 +1,16 @@
+item { 
+	name:'Eocanthecona_Bug_A'
+	id:1
+}
+item { 
+	name:'Larva_Spodoptera_D'
+	id:2
+}
+item { 
+	name:'Red_Hairy_Catterpillar_C'
+	id:3
+}
+item { 
+	name:'Tobacco_Caterpillar_B'
+	id:4
+}
